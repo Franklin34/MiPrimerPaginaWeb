@@ -1,0 +1,80 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: Arial;
+    background: #f1f1f1;
+    position: relative;
+  }
+
+  /* Header/Blog Title */
+  .header {
+    padding: 1.875rem;
+    text-align: center;
+    background-image: url(/img/jaguar.jpg);
+    padding-bottom: 100px;
+    background-size: cover;
+  }
+  .header2{
+    padding: 1.875rem;
+    text-align: center;
+    background-image: url(/img/ManuelA2.jpg);
+    padding-bottom: 100px;
+    background-size: cover;
+  }
+
+  .header h1 {
+    font-size: 50px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Chango', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-size: 100px;
+    -webkit-text-fill-color: yellowgreen;
+    -webkit-text-stroke: 1px black;
+    
+  }
+  ul.nav-pills {
+    top: 20px;
+    position: fixed;
+  }
+  div.col-8 div {
+    height: 500px;
+  }
+  
+
+.link2{
+    color:yellowgreen;
+    max-width: 225px;
+    justify-content: center;
+  }
+  .link2:hover{
+    color: rgba(140, 223, 174, 0.911);
+  }
+  .centro{
+    margin-bottom: 100px; 
+    margin-top: 50px;
+  }
+  footer{
+    background-color: yellowgreen;
+  }
+  .link1{
+    color: green;
+  }
+  .borde{
+    border-radius: 5px;
+    background-color: honeydew;
+    padding: 20px;
+    max-width: 50%;
+    margin: auto;
+  }
+  span{
+      color: slateblue;
+  }
+  h1{
+      -webkit-text-fill-color: floralwhite;
+      -webkit-text-stroke: 1px black;
+      font-size: 100px;
+      padding-top: 25px;
+}
+  
