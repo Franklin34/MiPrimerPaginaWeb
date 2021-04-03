@@ -8,7 +8,6 @@
     position: relative;
   }
 
-  /* Header/Blog Title */
   .header {
     padding: 1.875rem;
     text-align: center;
@@ -62,11 +61,12 @@
     color: green;
   }
   .borde{
-    border-radius: 5px;
-    background-color: honeydew;
+    border-radius: 10%;
+    background-color: rgba(59, 189, 102, 0.185);
     padding: 20px;
     max-width: 50%;
     margin: auto;
+    box-shadow: 0px 2xp 2px gray; 
   }
   span{
       color: slateblue;
@@ -77,4 +77,3 @@
       font-size: 100px;
       padding-top: 25px;
 }
-  
